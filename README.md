@@ -62,8 +62,7 @@ Shows how an Assistant agent can consult a dedicated Planner agent before execut
 - **Pattern:** `ask_planner` function call between agents
 - **Planner component:**
 
-  ![plan-and-execute](https://github.com/GURPREETKAURJETHRA/AI-Agents/blob/main/IMG/PlanExecute.png)
-
+    
 ---
 
 ### 5. 🦙 Local RAG Agent with LLaMA 3
@@ -131,30 +130,6 @@ Install and run Ollama with LLaMA 3:
 ```bash
 ollama pull llama3
 ```
-
----
-
-## 🖼️ Architecture Diagrams
-
-**Taskweaver Design**
-
-<img width="812" alt="taskweaver_arch" src="https://github.com/GURPREETKAURJETHRA/AI-Agents/blob/main/IMG/TaskweaverDesign.png">
-
-> [Taskweaver GitHub →](https://github.com/microsoft/taskweaver/)
-
-**AutoGen Agent Chat**
-
-![autogen_agentchat](https://github.com/GURPREETKAURJETHRA/AI-Agents/blob/main/IMG/AutogenAgent.png)
-
-**Multi-Agent Conversation**
-
-<img width="1094" alt="chat_example" src="https://github.com/GURPREETKAURJETHRA/AI-Agents/blob/main/IMG/MultiAgentConversation.png">
-
-**HuggingGPT Agent**
-
-<img width="750" alt="hugging-gpt" src="https://github.com/GURPREETKAURJETHRA/AI-Agents/blob/main/IMG/HuugingGPTAgent.png">
-
----
 
 ## 📚 References & Further Reading
 
