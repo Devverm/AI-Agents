@@ -12,7 +12,7 @@ This repository demonstrates how to build, orchestrate, and compose intelligent 
 
 ## 🌟 Agent Architecture
 
-![agent-overview](https://github.com/GURPREETKAURJETHRA/AI-Agents/blob/main/IMG/AgentOverview.png)
+![agent-overview](https://eu-central.storage.cloudconvert.com/tasks/05f7ccb2-54da-4a05-ba3e-0a241a0fedf0/ai_agent_architecture_diagram.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20260610%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20260610T085719Z&X-Amz-Expires=86400&X-Amz-Signature=a23b0e1e43a7b67ae01dcf9efebfdb8e732b8d2de35b68f91c6ff0c3abdc8e82&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22ai_agent_architecture_diagram.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject)
 
 ---
 
